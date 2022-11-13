@@ -2,7 +2,7 @@ const reviews=[
     {
     id:1,
     name:'Alan Benjamin',
-    job: "web developer",
+    job: "Web Developer",
     text:"I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
     img:"https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
      },
@@ -17,8 +17,8 @@ const reviews=[
       },
       {
         id: 3,
-        name: "peter jones",
-        job: "intern",
+        name: "Peter Jones",
+        job: "Intern",
         img:
           "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
         text:
@@ -26,8 +26,8 @@ const reviews=[
       },
       {
         id: 4,
-        name: "bill anderson",
-        job: "the boss",
+        name: "Bill Anderson",
+        job: "The Boss",
         img:
           "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
         text:
