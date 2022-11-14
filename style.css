@@ -96,3 +96,40 @@ h5{
     background-color: black;
     color: white;
 }
+@media screen and (max-width: 900px) {
+    
+    .reviewContainer{
+        width: 30rem;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    
+    .reviewContainer{
+        width: 20rem;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .line{
+    border: 2px rgb(61, 61, 61) solid;
+    border-bottom: 10px;
+    width: 120px;
+    margin-bottom: 20px;
+    }
+  }
+  @media screen and (max-width: 470px) {
+    
+    .reviewContainer{
+        width: 15rem;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .line{
+    border: 2px rgb(61, 61, 61) solid;
+    border-bottom: 10px;
+    width: 80px;
+    margin-bottom: 20px;
+    }
+  }
